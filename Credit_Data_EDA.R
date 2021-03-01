@@ -1,5 +1,7 @@
 rm(list=ls())
 
+options(warn = -1)
+
 library(reshape2)
 
 data1 = data
